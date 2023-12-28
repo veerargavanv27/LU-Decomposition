@@ -14,8 +14,8 @@ To write a program to find the LU Decomposition of a matrix.
 ```
 /*
 Program to find the L and U matrix.
-Developed by: 
-RegisterNumber: 
+Developed by: VEEARARAGAVAN V
+RegisterNumber: 23004739
 */
 import numpy as np
 from scipy.linalg import lu
